@@ -1,0 +1,3 @@
+target = pictureflow
+sources = sippictureflowcmodule.cpp sippictureflowPictureFlow.cpp
+headers = sipAPIpictureflow.h
